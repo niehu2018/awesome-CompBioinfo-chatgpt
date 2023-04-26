@@ -1,4 +1,4 @@
-# awesome-compbio-chatgpt
+# awesome-CompBioinfo-chatgpt
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -104,3 +104,4 @@ The following prompts may not be the most efficient in terms of prompt engineeri
 
 ### Related publications
 * Empowering Beginners in Bioinformatics with ChatGPT: https://www.biorxiv.org/content/10.1101/2023.03.07.531414v1
+* Reference-free and cost-effective automated cell type annotation with GPT-4 in single-cell RNA-seq analysis: https://www.biorxiv.org/content/10.1101/2023.04.16.537094v1
