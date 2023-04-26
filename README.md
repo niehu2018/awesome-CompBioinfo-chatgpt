@@ -101,3 +101,6 @@ The following prompts may not be the most efficient in terms of prompt engineeri
 ## Tutorials
 
 * "A Guide to Using ChatGPT For Data Science Projects" : https://www.datacamp.com/tutorial/chatgpt-data-science-projects
+
+### Related publications
+* Empowering Beginners in Bioinformatics with ChatGPT: https://www.biorxiv.org/content/10.1101/2023.03.07.531414v1
